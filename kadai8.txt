@@ -1,0 +1,7 @@
+Izumiの長さは5です。
+Kantoの長さは5です。
+Kudoの長さは4です。
+Satoの長さは4です。
+Sugawaraの長さは8です。
+Matsudaの長さは7です。
+Wadaの長さは4です。

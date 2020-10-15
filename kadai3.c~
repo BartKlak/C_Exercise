@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main(void)
+{
+  int sum=0, a, i;
+  int *p;
+
+  p=&sum;
+  printf("aを入力してください\n");
+  scanf("%d",a)
+
+  for(a=1;a<=i;a++)
+    {
+
+      printf("1から9までの和は%dです。",)
+    }
+
+  return 0;
+}

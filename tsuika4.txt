@@ -1,0 +1,9 @@
+Alice
+Jennifer
+Christie
+Bob
+END
+Aliceの長さは5です。
+Jenniferの長さは8です。
+Christieの長さは8です。
+Bobの長さは3です。

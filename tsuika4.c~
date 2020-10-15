@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main(void)
+{
+int i=0, l;
+char *name[]={"Izumi","Kanto","Kudo","Sato","Sugawara","Matsuda","Wada", NULL};
+
+while(name[i] != NULL)
+{
+while(*(name[i]+l) != '\0')
+{
+l++;
+}
+printf("%sの長さは%dです。\n", name[i], l);
+i++;
+l=0;
+}
+
+  return 0;
+}

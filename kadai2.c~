@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(void)
+{
+  double x, y;
+  double *p, *q;
+
+  p=&x;
+  q=&y;
+  printf("xを入力してください\n");
+  scanf("%f", &x);
+  printf("yを入力してください\n");
+  scanf("%f", &y);
+
+  printf("x+y=%f",*p+*q);
+
+  return 0;
+}

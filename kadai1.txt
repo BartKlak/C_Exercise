@@ -1,0 +1,6 @@
+[02166102@PC156 dai2kai]$ ./kadai1
+10
+i=10
+&i=0x7fffa44c7b14
+*p=10
+p=0x7fffa44c7b14
